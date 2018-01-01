@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)
 
 # 3D models of Ninja weapons and tools
 
