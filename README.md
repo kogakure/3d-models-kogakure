@@ -1,5 +1,3 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)
-
 # 3D models of Ninja weapons and tools
 
 These 3D models of Ninja weapons and tools were created by [Stefan Imhoff](https://stefanimhoff.de) in 2000 for the martial arts website [kogakure.de](https://kogakure.de). The models were converted to the `stl` format and can be viewed directly in GitHub.
